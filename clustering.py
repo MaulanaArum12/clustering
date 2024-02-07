@@ -1,8 +1,8 @@
+import seaborn as sns
 import streamlit as st
 import pandas as pd
 import numpy as np
 import datetime as dt
-import seaborn as sns
 import matplotlib.pyplot as plt  # corrected import statement
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import MinMaxScaler
